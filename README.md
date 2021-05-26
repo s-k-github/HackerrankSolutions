@@ -1,2 +1,2 @@
 # HackerrankSolutions
-Solutions with descriptions
+Solution with description
